@@ -1,1 +1,1 @@
-# spring-reactive-rest-mongo
+This repository presents a simple template project for a reactive spring project with a single entity and rest endpoint with mongoDb
